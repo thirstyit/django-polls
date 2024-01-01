@@ -1,1 +1,1 @@
-web: gunicorn mysite.mysite.wsgi
+web: gunicorn django-polls.wsgi
